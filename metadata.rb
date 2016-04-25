@@ -1,7 +1,7 @@
 name             'colloque'
-maintainer       'YOUR_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Rum&Code'
+maintainer_email 'info@rumandcode.io'
 license          'All rights reserved'
-description      'Installs/Configures colloque'
-long_description 'Installs/Configures colloque'
+description      'Colloque TI Shawinigan 2016 - Cookbook'
+long_description "#{description}"
 version          '0.1.0'
