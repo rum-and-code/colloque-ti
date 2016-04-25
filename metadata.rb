@@ -1,0 +1,7 @@
+name             'colloque'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures colloque'
+long_description 'Installs/Configures colloque'
+version          '0.1.0'
