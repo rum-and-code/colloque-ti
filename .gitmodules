@@ -1,0 +1,3 @@
+[submodule "cookbooks/colloque-web"]
+	path = cookbooks/colloque-web
+	url = git@github.com:rum-and-code/colloque-ti-web.git
